@@ -96,3 +96,15 @@ git push -u origin $(git branch --show-current)
 ```
 
 更详细说明见：`docs/github-submit.md`。
+
+
+## 8. 离线安装小工具（演示）
+
+外网受限时，可直接安装仓库内的小工具：
+
+```bash
+python -m pip install --no-build-isolation ./tools/offline-checker
+offline-check --name demo
+```
+
+详细说明见：`docs/offline-tool-demo.md`。
