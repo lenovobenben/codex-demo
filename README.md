@@ -77,6 +77,7 @@
 ## 6. 下一步可直接做的事情
 
 - [ ] 新建 `demos/go/two-sum/`（已提供首个 Go demo）
+- [ ] 新建 `demos/java/two-sum/`（已提供 Java 版本）
 - [ ] 新建 `demos/hello-codex/`
 - [ ] 写一个 20 行以内的最小可运行 demo
 - [ ] 给这个 demo 补一个 README
